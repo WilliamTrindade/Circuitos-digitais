@@ -1,2 +1,2 @@
 # Circuitos-digitais
-Conversor de código BCD para display de 7 segmentos
+Circuitos feitos para a disciplina de Fundamentos da Computação
