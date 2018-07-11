@@ -1,0 +1,1 @@
+Implementar um contador assíncrono de módulo 10 e conectá-lo ao decodificador BCD-7 Segmentos, para teste do circuito.
